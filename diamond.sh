@@ -1,174 +1,174 @@
 echo Installing 
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
-sleep 0.7
+sleep 0.1
 echo Get https://github.com/kail.termx/sshreplit
 sleep 4
 echo |Installing|
